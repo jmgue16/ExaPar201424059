@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="style.css" />
  </head>
  <body>
- <h1 align="center">Examen Parcial </h1>
+ <h1 align="center">Examen Parcial 1 </h1>
  <h1 align="center">Jean Marco Guerrero</h1>
   <table>
   <tr>
